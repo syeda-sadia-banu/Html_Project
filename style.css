@@ -1,0 +1,24 @@
+body{
+    
+    background-color: antiquewhite;
+   
+   background-image:inherit;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+b{
+    color: brown;
+}
+table,caption{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
